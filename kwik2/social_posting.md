@@ -49,8 +49,8 @@ SocailNetwork_Sample.zipには下記の外部コードが含まれています�
 
 controller フォルダ開き、twitter.lua とfacebook.lua をテキストエディタで開きます。開発者サイトで作成したツイッターのconsumer_key、consumer_secretのキーコードをtwitter.luaに設定します。facebook.luaにはAppIDとAppSecretを設定します。
 
-<img src="./IMG22/twitter_lua_—_SocialNetwork.jpg" width="600">
-<img src="./IMG22/facebook_lua_—_SocialNetwork.jpg" width="600">
+<img src="./IMG22/twitter_lua__SocialNetwork.jpg" width="600">
+<img src="./IMG22/facebook_lua__SocialNetwork.jpg" width="600">
 
 libとcontroller フォルダーをbuild フォルダにコピーしてください。
 
