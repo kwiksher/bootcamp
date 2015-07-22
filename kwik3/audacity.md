@@ -30,7 +30,7 @@ http://audacity.sourceforge.net/
 ### 保存ダイアログ
 以下の通り保存します。ファイル名は英数字で入力してください。
 * ファイル名：Kwik_readme
-* 出力フォーマット：MP3 ファイル
+* 出力フォーマット：MP3 ファイル 
 * 保存先：Documents/Kwikにreadmeというフォルダを作成して選択します。
 
 <img src="./IMG/k2_98.png" width="640">
