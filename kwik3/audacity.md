@@ -10,6 +10,7 @@ http://audacity.sourceforge.net/
 
 <img src="./IMG/k2_92.jpg">
 
+
 起動時に「ようこそ」画面を表示しない場合は、Don' t show this amain at start upにチェックを入れてOKボタンをクリックします。
 
 <img src="./../images/k2_93.jpg" width="640">
