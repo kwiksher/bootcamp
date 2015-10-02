@@ -1,5 +1,5 @@
 # Angry Daruma
-Corona Simulatorで新規プロジェクトを作成します。Composer Sceneを選択して、名前をAngryDarumaとします。
+Corona Simulatorで新規プロジェクトを作成します。Composer Sceneを選択して、名前をAngryDarumaとします。 
 
 <img src="img/daruma1.png"  width="600"/>
 
