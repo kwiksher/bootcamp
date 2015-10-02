@@ -4,6 +4,13 @@ Corona Simulatorで新規プロジェクトを作成します。Composer Scene�
 <img src="img/daruma1.png"  width="600"/>
 
 下記の画像をDLして、作成したAngryDarumaのプロジェクトフォルダに入れます。
+<img src="img/sky.jpg"  width="200"/>
+<img src="img/grass.png"  width="200"/>
+<img src="img/catapult.png"  width="100"/>
+<img src="img/daruma.png"  width="100"/>
+<img src="img/pile.png"  width="20"/>
+<img src="img/rock.png"  width="80"/>
+
 
 Composer GUIでscene1を開きます。下記のようなゲーム画面を作成します。
 <img src="img/daruma2.png"  width="600"/>
