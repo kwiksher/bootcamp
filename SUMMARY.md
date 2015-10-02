@@ -4,6 +4,7 @@
    * [table of content](table_of_content.md)
    * [requirement](environment.md)
    * [environment](installation.md)
+   * [reference](reference.md)
 * [Corona I](corona1/README.md)
    * [Installing Corona SDK](corona1/installation.md)
    * [Installing Sublime with Corona Editor](corona1/installing_sublime3_with_corona_editor.md)

@@ -2,7 +2,7 @@
 
 スマホにアプリをインストールするための「Android SDK Platform-tools」が必要となります。Android Studioをインストールして、SDK Managerによって、取得が可能です。
 
-http://developer.android.com/sdk/index.htmlからインストールファイルを取得します。
+http://developer.android.com/sdk/index.html からインストールファイルを取得します。
 <img src="img/android9.png"/>
 
 ダウンロードの利用規約に同意します。チェックボックスにチェックを入れて下さい。ダウンロードボタンが有効になります、ダウンロードを開始します。

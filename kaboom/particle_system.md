@@ -5,7 +5,7 @@ http://kwiksher.com/product/kaboom/
 Kaboom User guide
 http://kwiksher.com/user-guide/kaboom/
 
-Kaboomをすでに購入されたている場合は,アカウントページからダウンロードを行うことができます。
+Kaboomをすでに購入されている場合は,アカウントページからダウンロードを行うことができます。
 http://kwiksher.com/my-account/
 
 Kaboomは７１Squared社が提供するパーティクルデザイナーのファイルも読み込むことができます。パーティクルデザイナーはマック版のみで、Windows版はありません。
